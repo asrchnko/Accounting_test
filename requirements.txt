@@ -1,0 +1,6 @@
+fastapi==0.95.2
+uvicorn[standard]>=0.17.0
+pandas
+openpyxl
+python-multipart
+starlette==0.27.0
